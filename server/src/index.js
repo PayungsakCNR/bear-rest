@@ -5,9 +5,9 @@ var bodyParser = require('body-parser');
 var cors = require('cors');
   
 var bears = [
-    { id: '1', name: 'Pao' },
-    { id: '2', name: 'Karn' },
-    { id: '3', name: 'Big' }
+    { id: '1', name: 'กวาดขยะ' },
+    { id: '2', name: 'อาบน้ำ' },
+    { id: '3', name: 'กินข้าว' }
 ]; 
 var last_bear_id = 4;
   
